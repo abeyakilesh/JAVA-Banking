@@ -76,7 +76,7 @@ This project demonstrates:
 - Understanding of **concurrency ,synchronization and Multithreading**
 - Clean, readable, beginner-written but professional code
 
-It is intentionally built **without frameworks** to showcase foundational Java skills clearly.
+It is intentionally built **without frameworks** to showcase foundational Java skills clearly. 
 
 ---
 
