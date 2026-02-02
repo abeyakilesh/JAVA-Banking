@@ -90,5 +90,4 @@ It is intentionally built **without frameworks** to showcase foundational Java s
 
 ## Author
 
-Abey Akilesh
-Engineering Student | Java & Full Stack Enthusiast
+Abey Akilesh M
