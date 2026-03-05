@@ -15,7 +15,7 @@ The project features a **secure login system**, **transaction management**, and 
 
 ## Key Features
 
-* **Secure Login:** Authentication system (ID & Password verification).
+* **Secure Login:** Authentication system (ID & Password verification). 
 * **Core Banking Operations:** Deposit and Withdraw functionality with validation.
 * **Live Balance Enquiry:** Instant balance updates.
 * **Transaction History:** Tracks all actions with real-time timestamps.
