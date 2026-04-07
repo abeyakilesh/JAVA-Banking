@@ -1,7 +1,5 @@
 # JAVA-Banking 🏦
 
-<img width="100%" alt="Java Banking System Interface" src="https://github.com/user-attachments/assets/56b13c92-9632-410b-814f-264a9b2e2feb" />
-
 > **A Console-Based Banking System built with Core Java.**
 
 ---
